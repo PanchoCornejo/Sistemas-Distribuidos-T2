@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno": "Garcia",
+            "apellido_materno": "Ramires",
+            "nombre": "Carlos",
+            "username": "cgarcia",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id":1,
+            "apellido_paterno": "Cornejo",
+            "apellido_materno": "Carreño",
+            "nombre": "Francisco",
+            "username": "kiwix",
+            "password": "fc8654e78b5a92614708ad2e7a46a987"
+        }
+    ]
+}
